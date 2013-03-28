@@ -1,0 +1,18 @@
+*.gem
+.bundle
+Gemfile.lock
+pkg/*
+# rcov generated
+coverage
+
+# rdoc generated
+rdoc
+
+# yard generated
+doc
+.yardoc
+
+.DS_Store
+
+public/media/audio/*
+!public/media/audio/iknow.mp3
